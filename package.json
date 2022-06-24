@@ -1,7 +1,7 @@
 {
   "name": "@dhanushkumarsivaji/componentlibrary-mui",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/DhanushkumarSivaji"
+    "registry": "https://npm.pkg.github.com/dhanushkumarsivaji"
   },
   "version": "1.0.0",
   "description": "",

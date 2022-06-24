@@ -1,9 +1,9 @@
 {
-  "name": "@DhanushkumarSivaji/component-library",
+  "name": "@DhanushkumarSivaji/componentlibrary-mui",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/DhanushkumarSivaji"
   },
-  "version": "1.0.8",
+  "version": "1.0.0",
   "description": "",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
